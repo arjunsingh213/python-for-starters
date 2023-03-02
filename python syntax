@@ -1,0 +1,10 @@
+>>> print("Hello, World!")
+Hello, World!
+
+#python indentation
+if 5 > 2:
+  print("Five is greater than two!")
+  
+ #if not there will be syntax error
+ if 5 > 2:
+print("Five is greater than two!")
